@@ -8,7 +8,6 @@
 - [Hypotheses / Questions](#hypotheses-/-questions)
 - [Dataset](#dataset)
 - [Workflow](#workflow)
-- [Organization](#organization)
 - [Links](#links)
 
 <a name="project-description"></a>
@@ -37,25 +36,19 @@ The dataset contains 50 observations including two outliers of:
 - Songs (4 out of 5 songs)
 - Return in EUR
 
-<a href="data.csv">Dataset</a>
-
 [Dataset](data.csv) 
 
 <a name="workflow"></a>
 
 ## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
-
-<a name="organization"></a>
-
-## Organization
-How did you organize yourself? Did you use any tools?
+Observation were made during the performance. The classification into the groups were noted (but not interviewed).
+The data was noted in a CSV file and imported into Python where the analysis was made (see [Jupyter Notebook](main.ipynb)).
 
 <a name="links"></a>
 
 ## Links
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/ulrichglass/Ironhack-Project-4-Statistics/)  
+[Slides](Presentation.key)  
+[Slides PDF](Presentation.pdf)  
